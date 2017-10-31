@@ -59,7 +59,7 @@
             }
         %>
         <input type="button" onclick="document.location.reload();" value="Actualizar Tabla">
-        <a href="insertar.jsp">Insertar nueva persona</a>
+        <a href="insertarDatos.jsp">Insertar nueva persona</a>
 
     </body>
 </html>

@@ -13,7 +13,7 @@
     </head>
     <body>
          <h1>Diligencie los siguientes campos</h1>
-        <form action="ServletInsertar" method="post">
+        <form action="Fachada" method="post">
             <table border="1">
                 <thead>
                     <tr>
